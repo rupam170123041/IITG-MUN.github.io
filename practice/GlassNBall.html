@@ -8,7 +8,7 @@
 			background-color: #999999;
 			height: 600px;
 		}
-		
+
 		.glass{
 			position: absolute;
 			top:200px;
@@ -27,7 +27,7 @@
   crossorigin="anonymous"></script>
 </head>
 <body background="bg.jpg">
-	
+
 	<img src="Thimblerig.png" class="glass" onclick="check1()">
 	<img src="Thimblerig.png" class="glass" onclick="check2()">
 	<img src="Thimblerig.png" class="glass" onclick="check3()">
@@ -35,8 +35,8 @@
 	<br><br>
 	<center><button onclick="play()">START</button><button onclick="playagain()">PLAY AGAIN</button></center>
 	<script type="text/javascript">
-		
-			
+
+
 		var glass=document.getElementsByClassName('glass');
 		glass[1].style.top=100+"px";
 		glass[0].style.left=400+"px";
@@ -49,8 +49,8 @@
 		var i;
 		var j;
 		var c=0;
-		var xcenter = 550; 
-		var r= 150; 
+		var xcenter = 550;
+		var r= 150;
      // center X position
     var ycenter = 200;
 
@@ -79,21 +79,21 @@ function moveit(i,j) {
     		do{
     		i=Math.floor(Math.random()*3);
 			j=Math.floor(Math.random()*3);
-			}while(i==j);
-        	r= Math.abs((parseFloat($(".glass").eq(i).css('left'))-parseFloat($(".glass").eq(j).css('left')))/2) ;
+		}while(i>=j);
+        	r= ((parseFloat($(".glass").eq(j).css('left'))-parseFloat($(".glass").eq(i).css('left')))/2) ;
         	xcenter = (parseFloat($(".glass").eq(i).css('left'))+parseFloat($(".glass").eq(j).css('left')))/2;
       		console.log(i,j);
         	moveit(i,j);
     }else if(t<Math.PI) moveit(i,j);
-    
+
 	});
 }
 
 function play(){
 	glass[1].style.top=100+"px";
 	$("#ball").remove();
-	xcenter = 550; 
-	r= 150; 
+	xcenter = 550;
+	r= 150;
      // center X position
     ycenter = 200;
 	t=0;
@@ -117,11 +117,9 @@ function check3(){
 function playagain(){
 	location.reload();
 }
-	
+
 
 	</script>
 
 </body>
 </html>
-
-			
