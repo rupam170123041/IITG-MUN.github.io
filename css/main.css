@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C500");
+@import url("//https://fonts.google.com/specimen/IBM+Plex+Sans");
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -1414,7 +1414,7 @@ button.close {
 a.waves-effect .waves-ripple {
     z-index: -1}
 body,html {
-    font-family: "Roboto",sans-serif;
+    font-family: "IBM Plex Sans",sans-serif;
     font-size: 13px;
     font-weight: 300;
     width: 100%;
@@ -1502,7 +1502,7 @@ time {
     background-image: url("../img/sprites/logo3.gif");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center; 
+    background-position: center;
     background-size: 280px;
     background-color: #fff}
 .loader-gplus {
@@ -3983,7 +3983,7 @@ th.visible-md,td.visible-md {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    max-height: 500px; 
+    max-height: 500px;
     width: 100%;
 }
 
@@ -4027,7 +4027,7 @@ th.visible-md,td.visible-md {
 
 .enter {
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: normal;
 }
 
@@ -4055,7 +4055,7 @@ th.visible-md,td.visible-md {
 }
 
 .agenda-title {
-    
+
 }
 
 #unsc-main {
@@ -4080,7 +4080,7 @@ th.visible-md,td.visible-md {
 }
 
 .agenda-container {
-    
+
 }
 
 .about-agenda {
@@ -4100,8 +4100,8 @@ th.visible-md,td.visible-md {
     width: 100%;
 }
 
-body.modal div.modal-backdrop { 
-    z-index: 0; 
+body.modal div.modal-backdrop {
+    z-index: 0;
 }
 
 #apply-button-main {
@@ -4132,24 +4132,24 @@ body.modal div.modal-backdrop {
 .teamImage {
     background-size: cover;
     background-position: center center;
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;
 }
 .intrinsic-container {
   position: relative;
   height: 0;
   overflow: hidden;
 }
- 
+
 /* 16x9 Aspect Ratio */
 .intrinsic-container-16x9 {
   padding-bottom: 56.25%;
 }
- 
+
 /* 4x3 Aspect Ratio */
 .intrinsic-container-4x3 {
   padding-bottom: 75%;
 }
- 
+
 .intrinsic-container iframe {
   position: absolute;
   top:0;
