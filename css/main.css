@@ -1745,7 +1745,7 @@ time {
     bottom: 0;
     left: 0}
 .overlay.solid-overlay {
-    background: rgba(37,32,31,0.8)}
+    background: rgba(39,32,161,0.8)}
 .overlay.white-solid {
     background: rgba(255,255,255,0.9)}
 .overlay.gradient-overlay {
@@ -2083,15 +2083,15 @@ nav li a.current,nav li a:hover {
 .about-details p {
     margin-top: 10px}
 .statistic .stat {
-    font-size: 100px;
-    color: #03a9f4}
+    font-size: 110px;
+    color: #ac8230}
 .statistic .stat-info {
-    font-size: 23px}
+    font-size: 28px}
 .statistic hr {
     width: 20px;
     border-top: 1px solid #03a9f4}
 .statistic .small {
-    font-size: 15px}
+    font-size: 18px}
 .latest-news .post {
     margin-bottom: 40px}
 .rockstar-speakers .name {
