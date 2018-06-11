@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=IBM Plex Sans:200,500,600");
+@import url("//fonts.googleapis.com/css?family=IBM Plex Sans:400,300,700,500,100");
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -1416,7 +1416,7 @@ a.waves-effect .waves-ripple {
 body,html {
     font-family: "IBM Plex Sans",sans-serif;
     font-size: 13px;
-    font-weight: 600;
+    font-weight: bold;
     width: 100%;
     height: 100%;
     background: #fff;
@@ -4028,7 +4028,7 @@ th.visible-md,td.visible-md {
 .enter {
     color: white;
     font-family: 'IBM Plex Sans', sans-serif;
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .apply-type {
