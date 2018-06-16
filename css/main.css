@@ -108,7 +108,7 @@ html {
     font-size: 10px;
     -webkit-tap-highlight-color: transparent}
 body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "IBM Plex Sans",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857;
     color: #333;
@@ -4162,4 +4162,12 @@ body.modal div.modal-backdrop {
     border: 1px solid #000000;
     padding: 10px;
     border-radius: 30px;
+}
+#top-section-workshop{
+  background-color: blue;
+      height: 100%;
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;
 }
