@@ -4171,3 +4171,13 @@ body.modal div.modal-backdrop {
       left: 0;
       width: 100%;
 }
+.workshop-margin{
+  margin-left: 13%;
+  margin-right: 13%;
+  padding: 20px;
+}
+#workshop-text{
+  padding-top: 50px;
+  font-size: 20px;
+  text-align: justify;
+}
