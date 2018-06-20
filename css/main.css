@@ -173,11 +173,11 @@ hr {
     clip: auto}
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     font-family: inherit;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 1.1;
     color: inherit}
 h1 small,h1 .small,h2 small,h2 .small,h3 small,h3 .small,h4 small,h4 .small,h5 small,h5 .small,h6 small,h6 .small,.h1 small,.h1 .small,.h2 small,.h2 .small,.h3 small,.h3 .small,.h4 small,.h4 .small,.h5 small,.h5 .small,.h6 small,.h6 .small {
-    font-weight: normal;
+    font-weight: bold;
     line-height: 1;
     color: #777}
 h1,.h1,h2,.h2,h3,.h3 {
@@ -609,7 +609,7 @@ input[type="search"] {
     min-height: 20px;
     padding-left: 20px;
     margin-bottom: 0;
-    font-weight: normal;
+    font-weight: bold;
     cursor: pointer}
 .radio input[type="radio"],.radio-inline input[type="radio"],.checkbox input[type="checkbox"],.checkbox-inline input[type="checkbox"] {
     position: absolute;
@@ -622,7 +622,7 @@ input[type="search"] {
     padding-left: 20px;
     margin-bottom: 0;
     vertical-align: middle;
-    font-weight: normal;
+    font-weight: bold;
     cursor: pointer}
 .radio-inline+.radio-inline,.checkbox-inline+.checkbox-inline {
     margin-top: 0;
@@ -787,7 +787,7 @@ textarea.input-lg,select[multiple].input-lg {
 .btn {
     display: inline-block;
     margin-bottom: 0;
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
     vertical-align: middle;
     -ms-touch-action: manipulation;
@@ -919,7 +919,7 @@ textarea.input-lg,select[multiple].input-lg {
     background-color: #fff}
 .btn-link {
     color: #03a9f4;
-    font-weight: normal;
+    font-weight: bold;
     border-radius: 0}
 .btn-link,.btn-link:active,.btn-link.active,.btn-link[disabled],fieldset[disabled] .btn-link {
     background-color: transparent;
@@ -991,7 +991,7 @@ tbody.collapse.in {
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 36px;
-    font-weight: 400}
+    font-weight: bold}
 .jumbotron>hr {
     border-top-color: #d5d5d5}
 .container .jumbotron,.container-fluid .jumbotron {
