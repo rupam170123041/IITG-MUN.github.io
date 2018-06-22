@@ -4159,10 +4159,9 @@ body.modal div.modal-backdrop {
 }
 
 .councils-button {
-    border: 1px solid #000000;
     padding: 10px;
-    border-radius: 30px;
 }
+
 #top-section-workshop{
   background-color: blue;
       height: 100%;
@@ -4180,4 +4179,13 @@ body.modal div.modal-backdrop {
   padding-top: 50px;
   font-size: 20px;
   text-align: justify;
+}
+#secy-pic{
+  width:42.67%;
+}
+#secy-letter{
+  width:40.67%;
+  background-color: #ac8230;
+  padding-right:  15px;
+
 }
