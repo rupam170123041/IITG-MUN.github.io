@@ -1943,14 +1943,14 @@ nav li a {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     text-transform: uppercase;
-    color: blue;}
+    color: #2720a1;}
 nav li a.current,nav li a:hover {
     text-decoration: none;
-    color: blue;}
+    color: #2720a1;}
 .top-header.after-scroll nav li a {
-    color: rgba(0,0,255,0.5)}
+    color: rgba(39,32,161,0.5)}
 .top-header.after-scroll nav li a.current,.top-header.after-scroll nav li a:hover {
-    color: rgba(0,0,255,0.8)}
+    color: rgba(39,32,161,0.8)}
 .right-nav-button {
     margin: 11px 11px 0 0;
     -webkit-transition: all 0.3s;
@@ -3638,14 +3638,14 @@ nav li a {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     text-transform: none;
-    color: rgba(0,0,0,0.3);
+    color: rgba(39,32,161,0.3);
     outline: 0}
 nav li a.current,nav li a:hover {
-    color: #03a9f4}
+    color: #2720a1;}
 .top-header.after-scroll nav li a {
     top: 20px}
 .top-header.after-scroll nav li a.current,.top-header.after-scroll nav li a:hover {
-    color: #03a9f4}
+    color: #2720a1;}
 .top-section-hero .jumbotron {
     margin: 0;
     padding: 0}
@@ -3991,7 +3991,7 @@ th.visible-md,td.visible-md {
 }
 
 #apply-button {
-    background-color: blue;
+    background-color: #ac8230;
 }
 
 #contact-us-top {
@@ -4047,7 +4047,7 @@ th.visible-md,td.visible-md {
     right: 45%;
     bottom: 10%;
     vertical-align: bottom;
-    background-color: blue;
+    background-color: #ac8230;
 }
 
 .councils-main {
@@ -4104,7 +4104,7 @@ body.modal div.modal-backdrop {
 }
 
 #apply-button-main {
-    color: blue;
+    color: #ac8230;
     font-size: 20px;
     background-color: transparent;
 }
@@ -4162,7 +4162,7 @@ body.modal div.modal-backdrop {
 }
 
 #top-section-workshop{
-  background-color: blue;
+  background-color: #2720a1;
       height: 100%;
       position: relative;
       top: 0;
@@ -4190,5 +4190,5 @@ body.modal div.modal-backdrop {
   font-weight: normal;
 }
 .nav-button{
-  color: blue;
+  color: #2720a1;
 }
