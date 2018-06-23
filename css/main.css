@@ -794,7 +794,6 @@ textarea.input-lg,select[multiple].input-lg {
     touch-action: manipulation;
     cursor: pointer;
     background-image: none;
-    border: 1px solid transparent;
     white-space: nowrap;
     padding: 6px 12px;
     font-size: 14px;
@@ -1826,15 +1825,15 @@ time {
 .logo.logo-dark {
     background-image: url("../img/sprites/IITG mun logo-01 black.svg");
     background-position: center;
-    background-size: 226px 150px;}
+    background-size: 226px 200px;}
 .logo.logo-gray {
     background-image: url("../img/sprites/IITG mun logo-01 black.svg");
     background-position: center;
-    background-size: 226px 150px;}
+    background-size: 226px 200px;}
 .logo.logo-light {
     background-image: url("../img/sprites/IITG mun logo white-01.svg");
     background-position: center;
-    background-size: 226px 150px;}
+    background-size: 226px 200px;}
 .icon {
     display: inline-block;
     width: 16px;
@@ -1900,7 +1899,7 @@ time {
     display: inline-block;
     float: left;
     width: 226px;
-    height: 65px;
+    height: 100px;
     margin-right: 20px;
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
@@ -1919,7 +1918,7 @@ time {
     -ms-transform: translate(0);
     transform: translate(0)}
 nav ul {
-    float: left;
+    float: right;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -1936,7 +1935,7 @@ nav ul {
     transform: translateY(20px)}
 nav li {
     display: inline-block;
-    padding: 0 8px;
+    padding: 0 80px;
     vertical-align: middle}
 nav li a {
     font-size: 20px;
@@ -1944,7 +1943,7 @@ nav li a {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
     text-transform: uppercase;
-    color: #fff}
+    color: blue;}
 nav li a.current,nav li a:hover {
     text-decoration: none;
     color: #cfcfcf}
@@ -4189,4 +4188,7 @@ body.modal div.modal-backdrop {
   background-color: #ac8230;
   padding-right:  15px;
   font-weight: normal;
+}
+.nav-button{
+  color: blue;
 }
