@@ -1946,11 +1946,11 @@ nav li a {
     color: blue;}
 nav li a.current,nav li a:hover {
     text-decoration: none;
-    color: #cfcfcf}
+    color: blue;}
 .top-header.after-scroll nav li a {
-    color: rgba(0,0,0,0.5)}
+    color: rgba(0,0,255,0.5)}
 .top-header.after-scroll nav li a.current,.top-header.after-scroll nav li a:hover {
-    color: rgba(0,0,0,0.8)}
+    color: rgba(0,0,255,0.8)}
 .right-nav-button {
     margin: 11px 11px 0 0;
     -webkit-transition: all 0.3s;
