@@ -4176,8 +4176,9 @@ body.modal div.modal-backdrop {
 }
 #workshop-text{
   padding-top: 50px;
-  font-size: 20px;
+  font-size: 30px;
   text-align: justify;
+  font-weight: normal;
 }
 #secy-pic{
   width:43.67%;
