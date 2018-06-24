@@ -118,7 +118,7 @@ input,button,select,textarea {
     font-size: inherit;
     line-height: inherit}
 a {
-    color: #03a9f4;
+    color: #ac8230;
     text-decoration: none}
 a:hover,a:focus {
     color: #0275a8;
@@ -1441,9 +1441,9 @@ i {
 b,strong {
     font-weight: bold}
 a {
-    color: #03a9f4}
+    color: #ac8230}
 a:hover,a:active,a:focus {
-    color: #60ccfd}
+    color: #ac8230}
 a:hover,a:active,a:focus {
     text-decoration: none}
 h1,h2,h3,h4,h5,h6 {
@@ -2281,7 +2281,7 @@ nav li a.current,nav li a:hover {
 .venue-text {
     padding: 30px 20px;
     color: #fff;
-    background: #03a9f4}
+    background: #2720a1;}
 .venue-text h5 {
     margin-top: 0}
 .venue-text p {
@@ -4109,9 +4109,6 @@ body.modal div.modal-backdrop {
     background-color: transparent;
 }
 
-#apply-button-main:hover {
-    background-color: #ac8230;
-}
 
 #team-top-section {
     filter: brightness(0.6);
