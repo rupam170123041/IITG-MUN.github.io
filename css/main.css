@@ -4195,11 +4195,14 @@ body.modal div.modal-backdrop {
 }
 .workshop-button{
   padding: 5px 20px;
-  font-size: 30px;
-  margin: 10px;
+  font-size: 25px;
+  margin: 25px;
+  margin-top: 20px;
   background-color:#ac8230;
   color:white;
-  border-radius: 8px;
+  width: 208px;
+  height: 53px;
+  border-radius: 10px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   border-top-width: 0px;
   border-left-width: 0px;
