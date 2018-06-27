@@ -2085,7 +2085,8 @@ nav li a.current,nav li a:hover {
     font-size: 110px;
     color: #ac8230}
 .statistic .stat-info {
-    font-size: 28px}
+    font-size: 28px;
+    color:rgb(172,130,48);}
 .statistic hr {
     width: 20px;
     border-top: 1px solid #03a9f4}
