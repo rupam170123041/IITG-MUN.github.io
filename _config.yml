@@ -86,7 +86,7 @@ Lok Sabha : Elucidation of Privacy and its Consequences as a Right
 
 All these agendae are the product of incessant discussions and brainstorming among the team members to deliver the most debatable and relevant global quandaries to the participants. The selectivity of these agendae itself reflects our commitment to deliver the best we possibly can and traverse beyond the conventional line of thought.
   
-We as a generation have the best time and resources, enumerated with the experience of older generations, to shape the world in a way we want. The onus is on us to act and deliberate as the choices of today will be governing the future in an unprecedented manner. 
+We as a generation have the best time and resources, enumerated with the experience of older generations, to shape the world in a way we want. The onus is on us to act and deliberate as the choices of today will be governing the future in an unprecedented manner.
 
 With an abyssal optimism, I leave you with the mantle and ask you to take part in an event that awaits a brilliant ensemble of delegates who dare to take on upcoming challenges in the world with courage and diplomacy. Wishing you all the very best of luck for the conference.
 
@@ -131,8 +131,9 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Indian Institute of Technology"
-venueFeatures: ["Guwahati", "Conference Hall"]
+venueTitle: "Indian Institute of Technology,"
+venueFeature1: "Guwahati"
+venueFeature2: "Conference Hall"
 
 # Tweets Feed Block
 tweetsFeedTitle: "Prizes worth 1.5 lakh INR"
@@ -179,7 +180,7 @@ sponsors2Title: "In Collaboration with "
 sponsors2List:
  - {title: "techfest_world_mun", image: "techfest_world_mun_logo.png"}
  - {title: "patna_mun", image: "patna_mun_logo.png"}
- 
+
 
 # Apply Block
 applyTypes:
@@ -241,8 +242,8 @@ ticketsOffers:
   ticketsNumber: "100"
   buyButtonLink: "http://iitgmun.org/apply/"
   buyButtonText: "Apply Now"
-  
-  
+
+
 # Tweets Feed Block
 tweetsFeedTitle2: "\"That the powerful play goes on, and you may contribute a verse. What will be your verse?\""
 twitterHashTag2: "IITGMUN18"
