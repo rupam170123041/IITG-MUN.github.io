@@ -1935,7 +1935,7 @@ nav ul {
     transform: translateY(20px)}
 nav li {
     display: inline-block;
-    padding: 0 80px;
+    padding: 0 6.145em;
     vertical-align: middle}
 nav li a {
     font-size: 20px;
