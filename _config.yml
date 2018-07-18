@@ -54,7 +54,7 @@ rightNavigationButtons:
 # CHANGE , TODO
 apply-link: "/apply/"
 
-# Councils links
+# Councils link
 lok-sabha-link: "/lok-sabha/"
 ecosoc-link: "/ecosoc/"
 unga-link: "/unga/"
@@ -247,3 +247,7 @@ ticketsOffers:
 # Tweets Feed Block
 tweetsFeedTitle2: "\"That the powerful play goes on, and you may contribute a verse. What will be your verse?\""
 twitterHashTag2: "IITGMUN18"
+
+
+# Workshop page
+workshopPageLink: "/workshop.html/"
