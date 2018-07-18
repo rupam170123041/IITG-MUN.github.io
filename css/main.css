@@ -2281,10 +2281,10 @@ nav li a.current,nav li a:hover {
 .venue-small-elem {
     height: 200px}
 .venue-text {
-    padding: 10px 20px;
+    padding: 20px 20px;
     color: #fff;
     background: #2720a1;}
-.venue-text h5 {
+.venue-text h4 {
     margin-top: 0}
 .venue-text p {
     font-size: 27px}
