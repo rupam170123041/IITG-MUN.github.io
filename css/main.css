@@ -1746,7 +1746,11 @@ time {
 .overlay.solid-overlay {
     background: rgba(39,32,161,0.8)}
 .overlay.white-solid {
-    background: rgba(255,255,255,0.9)}
+    background: rgba(255,255,255,0.9)
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 1px 10px 18px #888888;
+  }
 .overlay.gradient-overlay {
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.32) 0%, rgba(0,0,0,0) 32%, rgba(0,0,0,0.64) 100%);
     background: linear-gradient(to bottom, rgba(0,0,0,0.32) 0%,rgba(0,0,0,0) 32%,rgba(0,0,0,0.64) 100%)}
@@ -1881,7 +1885,6 @@ time {
 .top-header.after-scroll .overlay {
     opacity: 1}
 .top-header .overlay {
-    opacity: 0;
     -webkit-transition: all 0.3s;
     transition: all 0.3s}
 .logo-header {
@@ -2084,10 +2087,10 @@ nav li a.current,nav li a:hover {
     margin-top: 10px}
 .statistic .stat {
     font-size: 110px;
-    color: #ac8230}
+    color: #d0a95e}
 .statistic .stat-info {
     font-size: 28px;
-    color:rgb(172,130,48);}
+    color:#d0a95e;}
 .statistic hr {
     width: 20px;
     border-top: 1px solid #03a9f4}
