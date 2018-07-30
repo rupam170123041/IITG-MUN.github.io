@@ -1951,7 +1951,7 @@ nav li a.current,nav li a:hover {
     text-decoration: none;
     color: #2720a1;}
 .top-header.after-scroll nav li a {
-    color: rgba(39,32,161,0.5)}
+    color: rgba(39,32,161,0.8)}
 .top-header.after-scroll nav li a.current,.top-header.after-scroll nav li a:hover {
     color: rgba(39,32,161,0.8)}
 .right-nav-button {
@@ -4169,6 +4169,7 @@ body.modal div.modal-backdrop {
       top: 0;
       left: 0;
       width: 100%;
+      height: 100vh;
 }
 .workshop-margin{
   margin-left: 13%;
