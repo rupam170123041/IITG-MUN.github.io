@@ -4197,7 +4197,8 @@ body.modal div.modal-backdrop {
   color: #2720a1;
 }
 #main-workshop{
-  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 .workshop-button{
   padding: 5px 20px;
@@ -4222,9 +4223,9 @@ body.modal div.modal-backdrop {
 }
 
 
-@media only screen and (max-width:480px) {
-    .button-worksop{
-        width: 50%;
-        height: 50%;
+@media only screen and (max-width:720px) {
+    .#top-section-hero{
+        background-color: white;
+        background-image: none;
     }
 }
