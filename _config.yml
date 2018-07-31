@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "IITG MUN 2018"
+title: "IITG MUN"
 email: "iitgmun@alcheringa.in"
 description: "IIT Guwahati MUN Spring'18"
 baseurl: "/"
@@ -50,6 +50,8 @@ bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
+workshopLink:
+ - {permalink: "/apply", text: "Workshop"}
 
 # CHANGE , TODO
 apply-link: "/apply/"
