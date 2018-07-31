@@ -4224,8 +4224,8 @@ body.modal div.modal-backdrop {
 
 
 @media only screen and (max-width:720px) {
-    .#top-section-hero{
-        background-color: white;
-        background-image: none;
+    #top-section-hero{
+        background-color: white !important;
+        background-image: none !important;
     }
 }
