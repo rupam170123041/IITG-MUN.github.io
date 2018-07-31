@@ -4197,7 +4197,7 @@ body.modal div.modal-backdrop {
   color: #2720a1;
 }
 #main-workshop{
-  background-size: 100% 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .workshop-button{
@@ -4241,6 +4241,12 @@ body.modal div.modal-backdrop {
 
     #workshop-text{
         font-size: 1.5em;
+    }
+
+    .workshop-button{
+        width: 30vw;
+        height: 5vh;
+        font-size: 3vw;
     }
 }
 
