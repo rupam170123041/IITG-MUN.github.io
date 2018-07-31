@@ -4235,8 +4235,8 @@ body.modal div.modal-backdrop {
 
     .jumbotron .animated {
         position: relative;
-        bottom: 15vh;
-        right: 12vw;
+        bottom: 20vh;
+        right: 15vw;
     }
 
     #workshop-text{
