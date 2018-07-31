@@ -3583,7 +3583,7 @@ section {
     padding-top: 20px;
     padding-bottom: 40px}
 section h3 {
-    padding-bottom: 30px}
+    padding-bottom: 0px}
 h1 {
     font-size: 47.775px}
 h2 {
@@ -4227,5 +4227,15 @@ body.modal div.modal-backdrop {
     #top-section-hero{
         background-color: white !important;
         background-image: none !important;
+    }
+
+    .logo-light{
+        width: 17vw;
+    }
+
+    .jumbotron .animated {
+        position: relative;
+        bottom: 10vh;
+        right: 8vw;
     }
 }
