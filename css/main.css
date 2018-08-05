@@ -4258,8 +4258,8 @@ body.modal div.modal-backdrop {
     }
 
     .logo-light{
-        bottom: 0vh;
-        width: 17vw;
+        bottom: 0vh !important;
+        width: 17vw !important;
     }
 
     .mobile .h1{
