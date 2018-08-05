@@ -4257,6 +4257,23 @@ body.modal div.modal-backdrop {
         display: none !important;
     }
 
+    .logo-light{
+        bottom: 0vh;
+        width: 17vw;
+    }
+
+    .mobile .h1{
+        font-size: 20vh !important;
+    }
+
+    .mobile .h2{
+        font-size: 7vh !important;
+    }
+
+    .mobile .h3{
+        font-size: 5vh !important;
+    }
+
     .mobile{
         display: flex;
         height: 100%;
