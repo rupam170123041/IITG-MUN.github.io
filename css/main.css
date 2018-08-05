@@ -1902,7 +1902,7 @@ time {
     display: inline-block;
     float: left;
     width:7vw;
-    height: 10vh;
+    height: 12vh;
     margin-right: 20px;
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
@@ -4285,5 +4285,5 @@ body.modal div.modal-backdrop {
 }
 
 .logo-light{
-    width: 10vw !important;
+    width: 9vw !important;
 }
