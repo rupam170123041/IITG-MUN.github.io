@@ -1835,7 +1835,8 @@ time {
 .logo.logo-light {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% 100%;}
+    background-size: 100% 100%;
+}
 .icon {
     display: inline-block;
     width: 16px;
@@ -4233,10 +4234,6 @@ body.modal div.modal-backdrop {
         background-image: none !important;
     }
 
-    .logo-light{
-        width: 17vw;
-    }
-
     .jumbotron .animated {
         position: relative;
         bottom: 20vh;
@@ -4285,4 +4282,8 @@ body.modal div.modal-backdrop {
 
 #workshop-link{
     color: #ac8230;
+}
+
+.logo-light{
+    width: 10vw !important;
 }
