@@ -1827,15 +1827,15 @@ time {
 .logo.logo-dark {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% 100%;}
+    background-size: 45px 45px;}
 .logo.logo-gray {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% 100%;}
+    background-size: 45px 45px;}
 .logo.logo-light {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% 100%;
+    background-size: 45px 45px;
 }
 .icon {
     display: inline-block;
@@ -1901,16 +1901,16 @@ time {
 .logo-header .logo {
     display: inline-block;
     float: left;
-    width:7vw;
-    height: 12vh;
+    width: 45px;
+    height: 45px;
     margin-right: 20px;
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
     transform: scale(0.5);
     vertical-align: middle}
 .logo-navbar {
-    width: 226px;
-    height: 65px;
+    width: 45px;
+    height: 45px;
     margin: 8px 20px 0 -10px;
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
@@ -2375,8 +2375,8 @@ nav li a.current,nav li a:hover {
     line-height: 1.3;
     margin-top: 10px}
 .logo-footer {
-    width: 226px;
-    height: 68px;
+    width: 45px;
+    height: 45px;
     margin: -13px -13px 0;
     -webkit-transform: scale(0.65);
     -ms-transform: scale(0.65);
@@ -4255,8 +4255,8 @@ body.modal div.modal-backdrop {
     }
 
     .logo-light{
-        bottom: 0vh !important;
-        width: 17vw !important;
+        bottom: 45px !important;
+        width: 45px !important;
     }
 
     .mobile .h1{
@@ -4285,5 +4285,5 @@ body.modal div.modal-backdrop {
 }
 
 .logo-light{
-    width: 8vw !important;
+    width: 45px !important;
 }
