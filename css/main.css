@@ -1894,10 +1894,10 @@ time {
     transform: translateY(20px);
     -webkit-transition: all 0.3s;
     transition: all 0.3s}
-.top-header.after-scroll .logo-header {
+/* .top-header.after-scroll .logo-header {
     -webkit-transform: translateY(1px);
     -ms-transform: translateY(1px);
-    transform: translateY(1px)}
+    transform: translateY(1px)} */
 .logo-header .logo {
     display: inline-block;
     float: left;
@@ -1932,10 +1932,10 @@ nav ul {
     transform: translateY(40px);
     -webkit-transition: all 0.3s;
     transition: all 0.3s}
-.top-header.after-scroll nav ul {
+/* .top-header.after-scroll nav ul {
     -webkit-transform: translateY(20px);
     -ms-transform: translateY(20px);
-    transform: translateY(20px)}
+    transform: translateY(20px)} */
 nav li {
     display: inline-block;
     font-size: 0.85vw;
@@ -3601,10 +3601,10 @@ h6 {
     -webkit-transform: translateX(-45px);
     -ms-transform: translateX(-45px);
     transform: translateX(-45px)}
-.top-header.after-scroll .logo-header {
+/* .top-header.after-scroll .logo-header {
     -webkit-transform: translateX(-45px);
     -ms-transform: translateX(-45px);
-    transform: translateX(-45px)}
+    transform: translateX(-45px)} */
 .logo-header .logo {
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
@@ -3631,10 +3631,10 @@ nav ul {
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
     transform: translateY(0)}
-.top-header.after-scroll nav ul {
+/* .top-header.after-scroll nav ul {
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
-    transform: translateY(0)}
+    transform: translateY(0)} */
 nav li {
     display: block}
 nav li a {
