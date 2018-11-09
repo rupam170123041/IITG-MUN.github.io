@@ -1894,10 +1894,10 @@ time {
     transform: translateY(20px);
     -webkit-transition: all 0.3s;
     transition: all 0.3s}
-/* .top-header.after-scroll .logo-header {
+ .top-header.after-scroll .logo-header {
     -webkit-transform: translateY(1px);
     -ms-transform: translateY(1px);
-    transform: translateY(1px)} */
+    transform: translateY(1px)}
 .logo-header .logo {
     display: inline-block;
     float: left;
@@ -3601,10 +3601,10 @@ h6 {
     -webkit-transform: translateX(-45px);
     -ms-transform: translateX(-45px);
     transform: translateX(-45px)}
-/* .top-header.after-scroll .logo-header {
+.top-header.after-scroll .logo-header {
     -webkit-transform: translateX(-45px);
     -ms-transform: translateX(-45px);
-    transform: translateX(-45px)} */
+    transform: translateX(-45px)} 
 .logo-header .logo {
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
