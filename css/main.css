@@ -1973,8 +1973,8 @@ nav li a.current,nav li a:hover {
     -ms-transform: translateY(-50px);
     transform: translateY(-50px)}
 .icon-menu {
-    width: 20px;
-    height: 20px;
+    width: 7vh;
+    height: auto;
     fill: #e6e6e6}
 .top-header.after-scroll .icon-menu {
     fill: #464646}
