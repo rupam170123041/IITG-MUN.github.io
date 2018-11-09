@@ -1827,15 +1827,15 @@ time {
 .logo.logo-dark {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% auto;}
+    background-size: auto 100%;}
 .logo.logo-gray {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% auto;}
+    background-size: auto 100%;}
 .logo.logo-light {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 100% auto;
+    background-size: auto 100%;
 }
 .icon {
     display: inline-block;
