@@ -50,8 +50,8 @@ bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
-workshopLink:
- - {permalink: "/apply", text: "Workshop"}
+applyLink:
+ - {permalink: "/apply", text: "Apply"}
 
 # CHANGE , TODO
 apply-link: "/apply/"
