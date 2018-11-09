@@ -1901,16 +1901,18 @@ time {
 .logo-header .logo {
     display: inline-block;
     float: left;
-    width:7vw;
+    width:13vh;
     height: 12vh;
+    /*
     margin-right: 20px;
+    */
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
     transform: scale(0.5);
     vertical-align: middle}
 .logo-navbar {
-    width: 226px;
-    height: 65px;
+    width: 13vh;
+    height: 12vh;
     margin: 8px 20px 0 -10px;
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
