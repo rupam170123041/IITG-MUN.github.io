@@ -1827,15 +1827,15 @@ time {
 .logo.logo-dark {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 45px 45px;}
+    background-size: 100% auto;}
 .logo.logo-gray {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 45px 45px;}
+    background-size: 100% auto;}
 .logo.logo-light {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
-    background-size: 45px 45px;
+    background-size: 100% auto;
 }
 .icon {
     display: inline-block;
@@ -1894,23 +1894,23 @@ time {
     transform: translateY(20px);
     -webkit-transition: all 0.3s;
     transition: all 0.3s}
- .top-header.after-scroll .logo-header {
+/* .top-header.after-scroll .logo-header {
     -webkit-transform: translateY(1px);
     -ms-transform: translateY(1px);
-    transform: translateY(1px)}
+    transform: translateY(1px)} */
 .logo-header .logo {
     display: inline-block;
     float: left;
-    width: 45px;
-    height: 45px;
+    width:7vw;
+    height: 12vh;
     margin-right: 20px;
     -webkit-transform: scale(0.7);
     -ms-transform: scale(0.7);
     transform: scale(0.5);
     vertical-align: middle}
 .logo-navbar {
-    width: 45px;
-    height: 45px;
+    width: 226px;
+    height: 65px;
     margin: 8px 20px 0 -10px;
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
@@ -2375,8 +2375,8 @@ nav li a.current,nav li a:hover {
     line-height: 1.3;
     margin-top: 10px}
 .logo-footer {
-    width: 45px;
-    height: 45px;
+    width: 226px;
+    height: 68px;
     margin: -13px -13px 0;
     -webkit-transform: scale(0.65);
     -ms-transform: scale(0.65);
@@ -3601,10 +3601,10 @@ h6 {
     -webkit-transform: translateX(-45px);
     -ms-transform: translateX(-45px);
     transform: translateX(-45px)}
-.top-header.after-scroll .logo-header {
+/* .top-header.after-scroll .logo-header {
     -webkit-transform: translateX(-45px);
     -ms-transform: translateX(-45px);
-    transform: translateX(-45px)} 
+    transform: translateX(-45px)} */
 .logo-header .logo {
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
@@ -4255,8 +4255,8 @@ body.modal div.modal-backdrop {
     }
 
     .logo-light{
-        bottom: 45px !important;
-        width: 45px !important;
+        bottom: 0vh !important;
+        width: 17vw !important;
     }
 
     .mobile .h1{
@@ -4285,5 +4285,5 @@ body.modal div.modal-backdrop {
 }
 
 .logo-light{
-    width: 45px !important;
+    width: 8vw !important;
 }
