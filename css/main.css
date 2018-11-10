@@ -4343,5 +4343,5 @@ background: #d7d7d7;
 .speech-image {
     width: 100%;
     height: 100%;
-    background-image: url("../img/sprites/speech.png") no-repeat;
+    background: url("../img/sprites/speech.JPG") no-repeat;
 }
