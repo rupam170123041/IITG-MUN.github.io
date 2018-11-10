@@ -4333,13 +4333,12 @@ background: #d7d7d7;
 }
 
 .speech-column {
-    float: left;
-    width: 50%;
+    flex: 50%;
 }
 
 .speech-text-column {
     float: right;
-    width: 50%;
+    background-color: #d7d7d7;
 }
 
 .speech-image {
