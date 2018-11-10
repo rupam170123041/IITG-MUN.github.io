@@ -1835,9 +1835,7 @@ time {
 .logo.logo-gray {
     background: url("../img/sprites/logo_blue_2.png" no-repeat);
     background-position: center;
-    height: 4vw;
-    width: 4vw;
-    background-size: contain;
+    background-size: auto 100%;}
 .logo.logo-light {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
