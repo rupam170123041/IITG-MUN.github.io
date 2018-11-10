@@ -4379,6 +4379,26 @@ background: #e7e7e7;
     height: 7vw;
 }
 
+.classmate-logo {
+    background: url("../img/sprites/logo_classmate.jpg") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 5vh;
+}
+
+.bitsmun-logo {
+    background: url("../img/sprites/logo_bitsmun.png") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 5vh;
+}
+
+.kiit-logo {
+    background: url("../img/sprites/logo_kiit.png") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 5vh;
+}
 .row-agenda {
     display: flex;
     height: 88vh;
