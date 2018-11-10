@@ -4323,3 +4323,9 @@ background: #d7d7d7;
     float: left;
     width: 50%;
 }
+
+.speech-image {
+    background-image: url("../img/sprites/logo-grey.gif");
+    background-position: center;
+    background-size: auto 100%;
+}
