@@ -4410,35 +4410,35 @@ background: #e7e7e7;
 }
 
 .facebook-logo {
-    background: url("../img/sprites/logo_facebook.png") no-repeat;
+    background: url("../img/sprites/logo_facebook.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 5vh;
 }
 
 .twitter-logo {
-    background: url("../img/sprites/logo_twitter.png") no-repeat;
+    background: url("../img/sprites/logo_twitter.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 5vh;
 }
 
 .instagram-logo {
-    background: url("../img/sprites/logo_instagram.png") no-repeat;
+    background: url("../img/sprites/logo_instagram.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 5vh;
 }
 
 .wordpress-logo {
-    background: url("../img/sprites/logo_wordpress.png") no-repeat;
+    background: url("../img/sprites/logo_wordpress.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 5vh;
 }
 
 .alcheringa-logo {
-    background: url("../img/sprites/logo_alcheringa.png") no-repeat;
+    background: url("../img/sprites/logo_alcheringa.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 5vh;
