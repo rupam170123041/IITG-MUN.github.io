@@ -4359,12 +4359,8 @@ background: #d7d7d7;
 }
 
 .footer-logo {
-    background: url("../img/sprites/logo_blue_2.png");
+    background: url("../img/sprites/logo_blue_2.png") no-repeat;
     background-position: center;
     background-size: contain;
     height: 7vw;
-}
-
-.logo-dark {
-    width: 14.5vh !important;
 }
