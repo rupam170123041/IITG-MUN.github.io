@@ -4324,8 +4324,6 @@ background: #d7d7d7;
 .row-speech {
     display: flex;
     height: 88vh;
-    padding-top: 7vh;
-    padding-bottom: 7vh;
 }
 
 .column {
@@ -4363,6 +4361,10 @@ background: #d7d7d7;
 .speech-blank {
     background-color: #ebebeb;
     width: 7vw;
+}
+
+.speech-box { width: 100%; height: 10vh;   
+background: #e7e7e7;
 }
 
 .footer-logo {
