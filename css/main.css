@@ -4334,18 +4334,19 @@ background: #d7d7d7;
 }
 
 .speech-column {
-    flex: 50%;
+    flex: auto;
     background-color: #d7d7d7;
 }
 
 .speech-text-column {
-    flex: 50%;
+    height: 100vh;
+    flex: auto;
     background-color: #d7d7d7;
 }
 
 .speech-image {
     width: auto;
-    height: 100%;
+    height: 100vh;
     background: url("../img/sprites/speech.JPG") no-repeat;
     background-size: auto 100%;
 }
