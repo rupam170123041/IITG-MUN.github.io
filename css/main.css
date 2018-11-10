@@ -4324,12 +4324,12 @@ background: #d7d7d7;
 
 .speech-column {
     float: left;
-    width: 50vw;
+    width: 50%;
 }
 
 .speech-text-column {
     float: right;
-    width: 50vw;
+    width: 50%;
 }
 
 #speechImage {
