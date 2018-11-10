@@ -4332,7 +4332,9 @@ background: #d7d7d7;
     width: 50%;
 }
 
-#speechImage {
+.speechImage {
+    float: right;
+    width: 50%;
     background-size: 400px auto
     background-image: url("../img/sprites/speech.png") no-repeat;
 }
