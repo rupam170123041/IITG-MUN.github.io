@@ -4341,10 +4341,10 @@ background: #d7d7d7;
 }
 
 .speech-image {
-    width: 100%;
+    width: auto;
     height: 100%;
     background: url("../img/sprites/speech.JPG") no-repeat;
-    background-size: 100% 100%;
+    background-size: auto 100%;
 }
 
 .speech-text {
