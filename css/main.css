@@ -2361,6 +2361,7 @@ nav li a.current,nav li a:hover {
 .footer {
     padding: 40px 52px 13px;
     border-top: 1px solid #d7d7d7;
+    margin: 0 0 0px;
     background-color: #d7d7d7}
 .footer h5 {
     font-size: 18px}
