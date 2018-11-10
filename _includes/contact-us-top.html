@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-md-1"></div>
 		<div class="col-md-5" style="background-color: #2720a1">
-		<div class="contact-image">
+		<div id="left_div" class="contact-image">
 			<div class="row">
 				<div align="left" class="col-md-10 col-md-offset-2 contact-text">
 					Contact Us
@@ -17,7 +17,7 @@
 			</div>
 		</div>
 		</div>
-		<div class="col-md-5" style="background-color: #e7e7e7">
+		<div id="right_div" class="col-md-5" style="background-color: #e7e7e7">
 			<div class="row">
 				<div align="left" class="col-md-10 col-md-offset-2">
 					<br>
@@ -50,5 +50,12 @@
 		</div>
 		<div class="col-md-1"></div>
 	</div>
+
+<script>
+	var left = document.getElementByID("left_div").style.height;
+	var right = document.getElementByID("right_div").style.height;
+
+	document.getElementByID("left_div").style.height = right;
+</script>
 
 </section>
