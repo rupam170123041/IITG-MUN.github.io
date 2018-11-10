@@ -4338,7 +4338,7 @@ background: #d7d7d7;
 }
 
 .speech-text-column {
-    float: right;
+    flex: 50%;
     background-color: #d7d7d7;
 }
 
