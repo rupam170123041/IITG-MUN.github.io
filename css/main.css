@@ -4332,13 +4332,13 @@ background: #d7d7d7;
 
 .speech-column {
     flex: 35%;
-    background-color: #ebebeb;
+    background-color: #e7e7e7;
 }
 
 .speech-text-column {
     height: 100vh;
     flex: 60%;
-    background-color: #d7d7d7;
+    background-color: #e7e7e7;
 }
 
 .speech-image {
@@ -4359,7 +4359,7 @@ background: #d7d7d7;
 }
 
 .speech-blank {
-    background-color: #ebebeb;
+    background-color: #e7e7e7;
     width: 7vw;
 }
 
