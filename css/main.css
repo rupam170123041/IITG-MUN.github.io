@@ -4370,7 +4370,7 @@ background: #d7d7d7;
 
 .speech-head {
     text-align: center;
-    font-size: 18px;
+    font-size: 28px;
 }
 
 .speech-box { width: 100%; height: 10vh;   
@@ -4407,4 +4407,14 @@ background: #e7e7e7;
 .row-agenda {
     display: flex;
     height: 88vh;
+}
+
+.tile-button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.tile-button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
 }
