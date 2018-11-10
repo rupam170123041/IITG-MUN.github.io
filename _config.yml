@@ -191,7 +191,7 @@ applyTypes:
  - {type: "International Press", applyLink: "https://docs.google.com/forms/d/e/1FAIpQLScCs2IwujVf50S1NRUsaF0ZbUsFKCsRlKQ-8DS4NCE_osPMxQ/viewform", image: "Press app.png"}
 
 # Committee Block
-committeeTypes:
+applyTypes2:
  - {type: "UNGA", applyLink: "https://docs.google.com/forms/d/e/1FAIpQLSddOHJTjWXhNVdLAB0swRswJlDYSDcuigaz6qFri_9d9sKVsQ/viewform?usp=sf_link", image: "UNGA.png"}
  - {type: "LOK SABHA", applyLink: "https://docs.google.com/forms/d/1hR2Ul7I0VlTav_Xdjv4D_f7fUA705EXAzdg6GW168I8/viewform", image: "Lok Sabha.png"}
  - {type: "ECOSOC", applyLink: "https://docs.google.com/forms/d/e/1FAIpQLScCs2IwujVf50S1NRUsaF0ZbUsFKCsRlKQ-8DS4NCE_osPMxQ/viewform", image: "ECOSOC.png"}
