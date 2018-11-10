@@ -4324,11 +4324,11 @@ background: #d7d7d7;
 
 .speech-column {
     float: left;
-    width: 50%;
+    width: 50vw;
 }
 
 #speechImage {
-    width: 20vw;
+    width: auto;
     height: auto;
     background: url("../img/sprites/speech.png") no-repeat;
 }
