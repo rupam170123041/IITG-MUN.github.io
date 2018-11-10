@@ -1826,8 +1826,8 @@ time {
 .reset-padding {
     padding: 0}
 .logo {
-        };
-    background-repeat: no-repeat}
+    background-repeat: no-repeat;
+    }
 .logo.logo-dark {
     background-image: url("../img/sprites/logo_blue_2.png");
     background-position: center;
