@@ -4444,6 +4444,10 @@ background: #e7e7e7;
     height: 3vh;
 }
 
+.contact-image {
+    background-image: url("../img/contact.png") cover;
+}
+
 #footnote{
     font-size: smaller;
 }
