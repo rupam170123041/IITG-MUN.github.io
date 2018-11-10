@@ -4466,7 +4466,8 @@ background: #e7e7e7;
 }
 
 .contact-image {
-    background-image: url("../img/contact.png") cover;
+    background-image: url("../img/contact.png") no-repeat;
+    background-size: 100%;
 }
 
 #footnote{
@@ -4495,6 +4496,7 @@ background: #e7e7e7;
 
 .big-contact-text {
     color: rgb(39,32,161);
+    font-size: ;
 }
 
 .small-contact-text {
