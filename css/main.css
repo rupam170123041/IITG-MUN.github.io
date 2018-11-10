@@ -4418,3 +4418,8 @@ background: #e7e7e7;
     background-color: #4CAF50; /* Green */
     color: white;
 }
+
+.reviews {
+    font-size: 16px;
+    font-weight: 500;
+}
