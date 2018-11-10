@@ -4364,5 +4364,8 @@ background: #d7d7d7;
 }
 
 .footer-logo {
+    background: url("../img/sprites/logo_blue_2.png");
+    background-position: center;
+    background-size: contain;
     height: 7vw;
 }
