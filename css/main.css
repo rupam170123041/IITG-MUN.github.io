@@ -4466,7 +4466,8 @@ background: #e7e7e7;
 }
 
 .contact-image {
-    background-image: url("../img/contact.png") no-repeat;
+    background-image: url("../img/contact.png");
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
