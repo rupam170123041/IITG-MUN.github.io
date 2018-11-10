@@ -4324,8 +4324,8 @@ background: #d7d7d7;
     width: 50%;
 }
 
-.speech-image {
-    background-image: url("../img/sprites/logo-grey.gif");
-    background-position: center;
-    background-size: auto 100%;
+#speechImage {
+    width: auto;
+    height: 100%;
+    background: url("../img/sprites/logo-grey.gif") no-repeat;
 }
