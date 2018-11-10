@@ -4352,10 +4352,11 @@ background: #d7d7d7;
 }
 
 .speech-text {
-    font-size: 18px;
+    font-size: 16px;
     padding-left: 7vh;
     padding-right: 7vh;
     text-align: left;
     padding-top: 7vh;
     padding-bottom: 7vh;
+    font-weight: 500;
 }
