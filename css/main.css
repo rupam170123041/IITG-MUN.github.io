@@ -4373,3 +4373,8 @@ background: #e7e7e7;
     background-size: contain;
     height: 7vw;
 }
+
+.row-agenda {
+    display: flex;
+    height: 88vh;
+}
