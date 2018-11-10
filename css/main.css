@@ -4369,3 +4369,7 @@ background: #d7d7d7;
     background-size: contain;
     height: 7vw;
 }
+
+.logo-dark {
+    width: 14.5vh !important;
+}
