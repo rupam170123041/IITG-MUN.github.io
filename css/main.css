@@ -4327,6 +4327,11 @@ background: #d7d7d7;
     width: 50vw;
 }
 
+.speech-text-column {
+    float: right;
+    width: 50vw;
+}
+
 #speechImage {
     width: auto;
     height: auto;
