@@ -4328,7 +4328,7 @@ background: #d7d7d7;
 }
 
 #speechImage {
-    width: 100%;
-    height: 100%;
+    width: 20vw;
+    height: auto;
     background: url("../img/sprites/speech.png") no-repeat;
 }
