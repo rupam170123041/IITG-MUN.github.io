@@ -4416,6 +4416,13 @@ background: #e7e7e7;
     height: 3vh;
 }
 
+.facebook2-logo {
+    background: url("../img/sprites/logo_facebook2.svg") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 3vh;
+}
+
 .twitter-logo {
     background: url("../img/sprites/logo_twitter.svg") no-repeat;
     background-position: center;
@@ -4423,8 +4430,22 @@ background: #e7e7e7;
     height: 3vh;
 }
 
+.twitter-logo {
+    background: url("../img/sprites/logo_twitter2.svg") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 3vh;
+}
+
 .instagram-logo {
     background: url("../img/sprites/logo_instagram.svg") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 3vh;
+}
+
+.instagram2-logo {
+    background: url("../img/sprites/logo_instagram2.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 3vh;
@@ -4470,4 +4491,12 @@ background: #e7e7e7;
 .reviews {
     font-size: 16px;
     font-weight: 500;
+}
+
+.big-contact-text {
+    color: rgb(39,32,161);
+}
+
+.small-contact-text {
+
 }
