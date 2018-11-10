@@ -4044,14 +4044,14 @@ th.visible-md,td.visible-md {
 }
 
 .apply-type {
-    border-radius: 25px;
+    border-radius: 0px;
     text-align: center;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     min-height: 400px;
     min-width: 150px;
-    max-width: 250px;
+    max-width: 300px;
 }
 
 .apply-button {
