@@ -4324,6 +4324,8 @@ background: #d7d7d7;
 .row-speech {
     display: flex;
     height: 88vh;
+    padding-top: 7vh;
+    padding-bottom: 7vh;
 }
 
 .column {
