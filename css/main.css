@@ -1498,7 +1498,7 @@ time {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url("../img/sprites/loader.gif");
+    background-image: url("../img/sprites/logo3.gif");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -4404,42 +4404,6 @@ background: #e7e7e7;
     background-size: contain;
     height: 12vh;
 }
-
-.twitter-logo {
-    background: url("../img/sprites/logo_twitter.svg") no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 12vh;
-}
-
-.facebook-logo {
-    background: url("../img/sprites/logo_facebook.svg") no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 12vh;
-}
-
-.instagram-logo {
-    background: url("../img/sprites/logo_instagram.svg") no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 12vh;
-}
-
-.wordpress-logo {
-    background: url("../img/sprites/logo_wordpress.svg") no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 12vh;
-}
-
-.alcheringa-logo {
-    background: url("../img/sprites/logo_alcheringa.svg") no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 12vh;
-}
-
 .row-agenda {
     display: flex;
     height: 88vh;
