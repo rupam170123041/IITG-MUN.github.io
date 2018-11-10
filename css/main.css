@@ -4205,6 +4205,8 @@ body.modal div.modal-backdrop {
 #main-workshop{
   background-size: cover;
   background-repeat: no-repeat;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .workshop-button{
   padding: 5px 20px;
