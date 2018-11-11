@@ -6,7 +6,7 @@
 	 	<div class="row">
 	 		{% for item in site.applyTypes %}
 	 		<div class="col-md-4" align="center">
-	 			<a href="{{ applyTypes.applyLink }}"><div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/{{ item.image }}');">
+	 			<a href="{{ item.applyLink }}"><div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/{{ item.image }}');">
 	 			</div></a>
 	 		</div>
 	 		{% endfor %}
