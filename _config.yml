@@ -191,9 +191,9 @@ sponsors2List:
 
 # Apply Block
 applyTypes:
- - {type: "Delegate", applyLink: "https://docs.google.com/forms/d/e/1FAIpQLSddOHJTjWXhNVdLAB0swRswJlDYSDcuigaz6qFri_9d9sKVsQ/viewform?usp=sf_link", image: "Delegate.png"}
- - {type: "Executive Board", applyLink: "https://docs.google.com/forms/d/1hR2Ul7I0VlTav_Xdjv4D_f7fUA705EXAzdg6GW168I8/viewform", image: "EB app.png"}
- - {type: "International Press", applyLink: "https://docs.google.com/forms/d/e/1FAIpQLScCs2IwujVf50S1NRUsaF0ZbUsFKCsRlKQ-8DS4NCE_osPMxQ/viewform", image: "Press app.png"}
+ - {type: "Delegate", applyLink: "https://goo.gl/forms/Ce47MqcluiurDuX32", image: "Delegate.png"}
+ - {type: "Executive Board", applyLink: "", image: "EB app.png"}
+ - {type: "International Press", applyLink: "", image: "Press app.png"}
 
 # Committee Block
 applyTypes2:
