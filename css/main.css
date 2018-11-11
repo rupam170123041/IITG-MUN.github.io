@@ -4057,6 +4057,7 @@ th.visible-md,td.visible-md {
     min-height: 400px;
     min-width: 150px;
     max-width: 300px;
+    margin: 20px;
 }
 
 .apply-button {
@@ -4349,8 +4350,8 @@ background: #d7d7d7;
 .speech-image {
     width: auto;
     height: 88vh;
-    background: url("../img/sprites/speech.JPG") no-repeat;
-    background-size: auto 100%;
+    background: url("../img/sprites/speech.png") no-repeat;
+    background-size: cover;
 }
 
 .speech-text {
@@ -4414,6 +4415,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
+    margin: 10px;
 }
 
 .facebook2-logo {
@@ -4421,6 +4423,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
+    margin: 10px;
 }
 
 .twitter-logo {
@@ -4428,13 +4431,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
-}
-
-.twitter-logo {
-    background: url("../img/sprites/logo_twitter2.svg") no-repeat;
-    background-position: center;
-    background-size: contain;
-    height: 3vh;
+    margin: 10px;
 }
 
 .instagram-logo {
@@ -4442,6 +4439,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
+    margin: 10px;
 }
 
 .instagram2-logo {
@@ -4449,6 +4447,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
+    margin: 10px;
 }
 
 .wordpress-logo {
@@ -4456,6 +4455,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
+    margin: 10px;
 }
 
 .alcheringa-logo {
@@ -4463,6 +4463,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 3vh;
+    margin: 10px;
 }
 
 .contact-image {
