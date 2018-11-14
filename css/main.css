@@ -4274,6 +4274,11 @@ body.modal div.modal-backdrop {
         width: 17vw !important;
     }
 
+    .logo-dark{
+        bottom: 0vh !important;
+        width: 17vw !important;
+    }
+
     .mobile .h1{
         font-size: 20vh !important;
     }
