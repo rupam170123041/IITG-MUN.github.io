@@ -4277,6 +4277,7 @@ body.modal div.modal-backdrop {
     .logo-dark{
         bottom: 0vh !important;
         width: 17vw !important;
+        bottom: 0vh;
     }
 
     .mobile .h1{
