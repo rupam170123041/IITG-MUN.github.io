@@ -4060,6 +4060,18 @@ th.visible-md,td.visible-md {
     margin: 20px;
 }
 
+.apply-type-2 {
+    border-radius: 0px;
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    min-width: 150px;
+    max-width: 300px;
+    margin: 20px;
+}
+
 .apply-button {
     color: white;
     position: absolute;
