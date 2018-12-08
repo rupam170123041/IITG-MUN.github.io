@@ -204,7 +204,7 @@ applyTypes2:
 # Apply Block WTO
 applyTypes3:
  - {type: "Delegate", applyLink: "https://goo.gl/forms/QVOitU12NdckVts33", image: "Delegate.png"}
- - {type: "Executive Board", applyLink: "https://goo.gl/forms/SiCEGaZICk0CbR9H3", image: "EB app.png"}
+ - {type: "Executive Board", applyLink: "https://goo.gl/forms/m1wdPYnQJ7QEsgbl2", image: "EB app.png"}
  - {type: "International Press", applyLink: "https://goo.gl/forms/whankT1dRGjfoO0I3", image: "Press app.png"}
 
 
