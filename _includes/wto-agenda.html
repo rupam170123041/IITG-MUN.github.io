@@ -1,0 +1,14 @@
+<section id="apply-main">
+	<div class="row">
+		<h4 style="display:none;" align="center" style="padding-bottom: 4.5vw">Coming Soon</h4>
+	</div>
+	 <div class="content-wrapper">
+	 	<div class="row">
+	 		{% for item in site.applyTypes3 %}
+	 		<div class="col-md-4" align="center">
+	 			<a href="{{ item.applyLink }}"><div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/{{ item.image }}');">
+	 			</div></a>
+	 		</div>
+	 		{% endfor %}
+	 </div>
+</section>
