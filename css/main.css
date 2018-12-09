@@ -4414,6 +4414,7 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     height: 18vh;
+    margin-left: 4vh;
 }
 
 .kiit-logo {
@@ -4423,6 +4424,7 @@ background: #e7e7e7;
     margin-top: 1vh;
     height: 18vh;
     width: 150px;
+    margin-left: 15vh;
 }
 
 .facebook-logo {
