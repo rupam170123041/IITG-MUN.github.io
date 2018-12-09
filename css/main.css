@@ -4413,14 +4413,16 @@ background: #e7e7e7;
     background: url("../img/sprites/logo_bitsmun.png") no-repeat;
     background-position: center;
     background-size: contain;
-    height: 12vh;
+    height: 18vh;
 }
 
 .kiit-logo {
     background: url("../img/sprites/logo_kiit.svg") no-repeat;
     background-position: center;
     background-size: contain;
-    height: 12vh;
+    margin-top: 1vh;
+    height: 18vh;
+    width: 150px;
 }
 
 .facebook-logo {
