@@ -4417,7 +4417,7 @@ background: #e7e7e7;
 }
 
 .kiit-logo {
-    background: url("../img/sprites/logo_kiit.png") no-repeat;
+    background: url("../img/sprites/logo_kiit.svg") no-repeat;
     background-position: center;
     background-size: contain;
     height: 12vh;
