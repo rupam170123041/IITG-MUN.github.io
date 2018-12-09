@@ -4413,7 +4413,7 @@ background: #e7e7e7;
     background: url("../img/sprites/logo_bitsmun.png") no-repeat;
     background-position: center;
     background-size: contain;
-    height: 18vh;
+    height: 7vw;
     margin-left: 4vh;
 }
 
@@ -4422,9 +4422,9 @@ background: #e7e7e7;
     background-position: center;
     background-size: contain;
     margin-top: 1vh;
-    height: 18vh;
-    width: 150px;
-    margin-left: 15vh;
+    height: 7vw;
+    width: 13vw;
+    margin-left: 5vw;
 }
 
 .facebook-logo {
