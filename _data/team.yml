@@ -12,7 +12,7 @@
   surname: "Jhunjhunwala"
   title: "Chief of Staff"
   thumbnailUrl: sanchit.jpg
-  description: "From being the Coordinator of Logistics to USG Administration, for three years, Saurabh has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His understanding of working a team makes him a leader one would follow. Work aside, he loves Sufi Poetry and Classical rock - hand him a guitar, and you wouldn't be disappointed."
+  description: "From being the Coordinator of Logistics to USG Administration, for three years, Sanchit has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His acumen at managing teams makes him a leader to follow. Work aside, he loves Sufi Poetry and Classical rock - hand him a guitar, and you wouldn't be disappointed."
   team: true
 - 
   id: 2
@@ -28,7 +28,7 @@
   surname: "Panwar"
   title: "Director International Press"
   thumbnailUrl: shwetank.jpg
-  description: "A tech and robotics geek, Shwetank is an exemplary engineer. Brilliant with the keyboard, whether it's writing insightful articles or running hefty algorithms. His profound grasp of world politics makes him an invaluable part of our team. Shwetank has a keen interest in sci-fi books and thrillers, especially the ones revolving around narcotics.  When stumbled onto doors leading to ingenious agendae, he's the one who knocks."
+  description: "A tech and robotics geek, Shwetank is an exemplary engineer. Brilliant with the keyboard, whether it's writing insightful articles or running hefty algorithms. His profound grasp of world politics makes him an invaluable part of our team. Shwetank has a keen interest in sci-fi books and thrillers, especially ones revolving around narcotics.  When stumbling onto doors leading to ingenious agendae, he's the one who knocks."
   team: true
 - 
   id: 4
@@ -36,7 +36,7 @@
   surname: "Sharma"
   title: "Director Public Relations"
   thumbnailUrl: sangam.jpg
-  description: "The team's newbie, Sangam's surprisingly extensive research with agendae has been enriching to the discussions that followed. Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. The typical cricket fan, he also takes a lot of interest in biking."
+  description: "The team's newbie, Sangam's surprisingly extensive research with agendae has been enriching to the discussions that followed. Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. Though he is a typical cricket fan, he also takes a lot of interest in biking."
   team: true
 - 
   id: 5
@@ -44,7 +44,7 @@
   surname: "Ranjan"
   title: "Director Logistics"
   thumbnailUrl: sujal.jpg
-  description: "A new yet valuable addition to the team, Sujal is the guy for every job. Whether it’s research for the agendae or strategic extensive branding. Seemingly a bit naive at first glance, he has a vast  experience as an administrator. His dedication towards fulfilling every task thrown at him is unparalleled. An avid cricket and anime fan, he has a good hand with the ball (no pun intended)."
+  description: "A new yet valuable addition to the team, Sujal is the guy for every job. Whether it’s research for the agendae or strategic extensive branding. Seemingly a bit naive at first glance, he has vast experience as an administrator. His dedication towards fulfilling every task thrown at him is unparalleled. An avid cricket and anime fan, he has a good hand with the ball (no pun intended)."
   team: true
 - 
   id: 6
@@ -60,7 +60,7 @@
   surname: "Malaviya"
   title: "Director Creative Logisitics"
   thumbnailUrl: srishti.jpg
-  description: "A designer to the literal core, Srishti is the team’s supply of adorable awkwardness. A quirky female, on whom you may count for an outburst of laughter when you ask her for advice; she is a perfectionist - to a point that is scary. Contrary to what you might believe, she’s good at basketball. Dwelling on the aesthetic aspect of whatever she finds, she likes to watch the moon move."
+  description: "A designer to the literal core, Srishti is the team’s supply of adorable awkwardness. A quirky female, on whom you may count for an outburst of laughter when you ask her for advice; she is a perfectionist - to the point where it is scary. Contrary to what you might believe, she’s good at basketball. Dwelling on the aesthetic aspect of whatever she finds, she likes to watch the moon move."
   team: true
 - 
   id: 9
@@ -76,16 +76,15 @@
   surname: "Chakravadhanula"
   title: "Director Technical Operations"
   thumbnailUrl: vc.jpg
-  description: "A programming genius, Vedant “the Nice guy” Chakravadhanula a.k.a. “VC” is a part of the Webops team of the IITG MUN, and is probably the most humble person you’ll ever meet. He has an amazing sense of humour which entices both men and women. Speaking of women, Vedant has a lot of them apparently. Vedant has a striking resemblance to the
- legendary musician, Snoop Dogg, physically and they share the same passions too. Despite of that the team would be incomplete without him. Vedant likes going an extra mile everyday, especially on Wednesdays"
+  description: "A programming genius, Vedant “the Nice guy” Chakravadhanula a.k.a. “VC” is a part of the Webops team at IITG MUN, and is probably the most humble person you’ll ever meet. He has an amazing sense of humour which entices both men and women. Speaking of women, Vedant has a lot of them apparently. Vedant has a striking resemblance to the legendary musician, Snoop Dogg, physically and they share the same passions too. Despite of that the team would be incomplete without him. Vedant likes going an extra mile everyday, especially on Wednesdays"
   team: true
 - 
   id: 11
   name: "Vrishank"
   surname: "Bhardwaj"
   title: "Director Technical Operations"
-  thumbnailUrl: pandey.jpg
-  description: "A god in machine learning and the proudest Delhite, Vrishank (Bro) is a part of the Webops team, and is a surprisingly eccentric person who loves to procrastinate. His puns aren't punny at all so one should steer clear of him in social gatherings to avoid mental trauma. His best talents include swimming, coding and eating a lot of food. He likes reading a lot and has a peculiar interest in the suez canal .Generosity and politeness make up for his lack of humour."
+  thumbnailUrl: vrishank.jpg
+  description: "A god in machine learning and a proud Delhite, Vrishank is a part of the Webops team, and is a surprisingly eccentric person who loves to procrastinate. His puns aren't punny at all so one should steer clear of him at social gatherings to avoid mental trauma. His talents include swimming, coding and eating copious amounts of food. He enjoys reading and has a peculiar interest in the suez canal. Generosity and politeness make up for his lack of humour."
   team: true
 - 
   id: 12
@@ -93,7 +92,7 @@
   surname: "Kothari"
   title: "USG Administration"
   thumbnailUrl: param.jpg
-  description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
+  description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point where it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
   team: true
 - 
   id: 13
@@ -117,7 +116,7 @@
   surname: "Salunke"
   title: "USG Public Relations"
   thumbnailUrl: shubham.jpg
-  description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football lover as well as an immaculate player."
+  description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
   team: true
 - 
   id: 16
@@ -125,7 +124,7 @@
   surname: "Sharma"
   title: "USG Conference Affairs"
   thumbnailUrl: akash.jpg
-  description: "The multi-tasking  maestro of the team, his energy and vigour is unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, ( if he gets any) Akash loves to travel and play table tennis."
+  description: "The multi-tasking maestro of the team, his energy and vigour are unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, (if he gets any) Akash loves to travel and play table tennis."
   team: true
 - 
   id: 17
@@ -133,7 +132,7 @@
   surname: "Goyal"
   title: "USG International Press"
   thumbnailUrl: radhika.jpg
-  description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pass times and she is always down for a spontaneous jam session."
+  description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
 - 
   id: 18
