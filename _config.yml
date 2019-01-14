@@ -191,7 +191,7 @@ sponsors2List:
 
 # Apply Block
 applyTypes:
- - {type: "Delegate", applyLink: "https://goo.gl/forms/Ce47MqcluiurDuX32", image: "Delegate.png"}
+ - {type: "Delegate", applyLink: "https://goo.gl/forms/ZWNfBxk1HZwV66n93", image: "Delegate.png"}
  - {type: "Executive Board", applyLink: "https://goo.gl/forms/SiCEGaZICk0CbR9H3", image: "EB app.png"}
  - {type: "International Press", applyLink: "https://goo.gl/86F8Mh", image: "Press app.png"}
 
