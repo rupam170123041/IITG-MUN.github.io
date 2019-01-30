@@ -12,7 +12,7 @@
   surname: "Jhunjhunwala"
   title: "Chief of Staff"
   thumbnailUrl: sanchit.jpg
-  description: "From being the Coordinator of Logistics to USG Administration, for three years, Sanchit has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His acumen at managing teams makes him a leader to follow. Work aside, he loves Sufi Poetry and Classical rock - hand him a guitar, and you wouldn't be disappointed."
+  description: "For three years, Sanchit has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His acumen at managing teams makes him a leader to follow. Work aside, he loves stringing rhymes on his violin and idolizes Jonathan Nolan."
   team: true
 - 
   id: 2
@@ -20,7 +20,7 @@
   surname: "Shukla"
   title: "Director General"
   thumbnailUrl: shukla.jpg
-  description: "The undisputed quizzing champion of IIT Guwahati, Shubhang is not someone you'd want to challenge when it comes to knowing facts and figures. He also has a strange urge to genetically modify stuff. His keen interest in football is reflected in the way he idolises Lionel Messi and thoroughly enjoys classic rock and Led Zeppelin. There's definitely so much more to him than what meets the eye. Above all, the quality one would admire the most is how he'll always go out of his way to help someone."
+  description: "The undisputed quizzing champion of IIT Guwahati, Shubhang is not someone you'd want to challenge when it comes to knowing facts and figure. His keen interest in football is reflected in the way he idolizes Lionel Messi and he thoroughly enjoys reading. There's definitely so much more to him than what meets the eye. Above all, the quality one would admire the most is how he'll always go out of his way to help someone."
   team: true
 - 
   id: 3
@@ -36,7 +36,7 @@
   surname: "Sharma"
   title: "Director Public Relations"
   thumbnailUrl: sangam.jpg
-  description: "The team's newbie, Sangam's surprisingly extensive research with agendae has been enriching to the discussions that followed. Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. Though he is a typical cricket fan, he also takes a lot of interest in biking."
+  description: "Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. Though he is a typical cricket fan, he also takes a lot of interest in biking."
   team: true
 - 
   id: 5
@@ -44,7 +44,7 @@
   surname: "Ranjan"
   title: "Director Logistics"
   thumbnailUrl: sujal.jpg
-  description: "A new yet valuable addition to the team, Sujal is the guy for every job. Whether it’s research for the agendae or strategic extensive branding. Seemingly a bit naive at first glance, he has vast experience as an administrator. His dedication towards fulfilling every task thrown at him is unparalleled. An avid cricket and anime fan, he has a good hand with the ball (no pun intended)."
+  description: "Sujal is the guy for every job, whether it’s research for the agendae or strategic extensive branding. Seemingly a bit naive at first glance, he has vast experience as an administrator. His dedication towards fulfilling every task thrown at him is unparalleled. An avid cricket and anime fan, he has a good hand with the ball (no pun intended)."
   team: true
 - 
   id: 6
@@ -76,7 +76,7 @@
   surname: "Chakravadhanula"
   title: "Director Technical Operations"
   thumbnailUrl: vc.jpg
-  description: "A programming genius, Vedant “the Nice guy” Chakravadhanula a.k.a. “VC” is a part of the Webops team at IITG MUN, and is probably the most humble person you’ll ever meet. He has an amazing sense of humour which entices both men and women. Speaking of women, Vedant has a lot of them apparently. Vedant has a striking resemblance to the legendary musician, Snoop Dogg, physically and they share the same passions too. Despite of that the team would be incomplete without him. Vedant likes going an extra mile everyday, especially on Wednesdays"
+  description: "A programming genius, Vedant “the Nice guy” Chakravadhanula a.k.a. “VC” is a part of the Webops team at IITG MUN, and is probably the most humble person you’ll ever meet. He has an amazing sense of humour which entices both men and women. Vedant has a striking resemblance to the legendary musician, Snoop Dogg, physically and they share the same passions too. Despite of that the team would be incomplete without him. Vedant likes going an extra mile everyday, especially on Wednesdays"
   team: true
 - 
   id: 11
@@ -84,7 +84,7 @@
   surname: "Bhardwaj"
   title: "Director Technical Operations"
   thumbnailUrl: vrishank.jpg
-  description: "A god in machine learning and a proud Delhite, Vrishank is a part of the Webops team, and is a surprisingly eccentric person who loves to procrastinate. His puns aren't punny at all so one should steer clear of him at social gatherings to avoid mental trauma. His talents include swimming, coding and eating copious amounts of food. He enjoys reading and has a peculiar interest in the suez canal. Generosity and politeness make up for his lack of humour."
+  description: "A god in machine learning and a proud Delhite, Vrishank is a part of the Webops team, and is a surprisingly eccentric person who loves to procrastinate. His puns aren't punny at all so one should steer clear of him at social gatherings to avoid mental trauma. His talents include swimming, coding and eating copious amounts of food. He enjoys reading and has a peculiar interest in the suez canal."
   team: true
 - 
   id: 12
